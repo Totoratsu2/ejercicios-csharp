@@ -1,0 +1,16 @@
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\bin\Debug\net5.0\ej1.exe
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\bin\Debug\net5.0\ej1.deps.json
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\bin\Debug\net5.0\ej1.runtimeconfig.json
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\bin\Debug\net5.0\ej1.runtimeconfig.dev.json
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\bin\Debug\net5.0\ej1.dll
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\bin\Debug\net5.0\ref\ej1.dll
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\bin\Debug\net5.0\ej1.pdb
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\obj\Debug\net5.0\ej1.csprojAssemblyReference.cache
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\obj\Debug\net5.0\ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\obj\Debug\net5.0\ej1.AssemblyInfoInputs.cache
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\obj\Debug\net5.0\ej1.AssemblyInfo.cs
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\obj\Debug\net5.0\ej1.csproj.CoreCompileInputs.cache
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\obj\Debug\net5.0\ej1.dll
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\obj\Debug\net5.0\ref\ej1.dll
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\obj\Debug\net5.0\ej1.pdb
+C:\Users\orbittas.DESKTOP-O6LMTGP\Desktop\toto\udm\codigolimpio\ej1\obj\Debug\net5.0\ej1.genruntimeconfig.cache
